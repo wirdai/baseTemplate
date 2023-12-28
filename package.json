@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
+    "@azure/service-bus": "^7.9.3",
     "durable-functions": "^3.0.0",
     "json-rules-engine": "^6.5.0"
   },
